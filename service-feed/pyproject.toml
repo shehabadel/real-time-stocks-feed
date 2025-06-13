@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pydantic>=2.11.7",
+    "sqlalchemy>=2.0.41",
 ]
 
 [dependency-groups]
